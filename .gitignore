@@ -1,0 +1,9 @@
+
+sx noise
+.DS_Store
+
+# eclipse
+/target*/
+/.settings/
+/.classpath
+/bin/
